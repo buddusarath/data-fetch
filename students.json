@@ -1,0 +1,42 @@
+[
+    {
+        "id": "6669e897619ff",
+        "name": "BUDDU SARATH",
+        "email": "buddusarath1@gmail.com",
+        "state": "odisha",
+        "domain": "Web Development",
+        "contact": "9078171269",
+        "year": "3rd Year",
+        "status": "Done"
+    },
+    {
+        "id": "6669e8ee8b38c",
+        "name": "BUDDU SARATH",
+        "email": "wwww@gmail.com",
+        "state": "sss",
+        "domain": "Web Development",
+        "contact": "9078171269",
+        "year": "1st Year",
+        "status": "Not Done"
+    },
+    {
+        "id": "6669eb35d5301",
+        "name": "BUDDU SARATH",
+        "email": "buddusarath1@gmail.com",
+        "state": "odisha",
+        "domain": "Data Science",
+        "contact": "9078171269",
+        "year": "Passed Out",
+        "status": "Not Done"
+    },
+    {
+        "id": "6669eb4b28b18",
+        "name": "suman",
+        "email": "admin@example.com",
+        "state": "odisha",
+        "domain": "Data Science",
+        "contact": "90781712694",
+        "year": "3rd Year",
+        "status": "Not Done"
+    }
+]
